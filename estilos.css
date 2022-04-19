@@ -1,0 +1,62 @@
+
+*   {
+    width: 95%;
+    display: 90%;
+    margin: 0px;
+    margin-top: 10px;
+    padding-left: 2px;
+}
+
+#container  {
+    font-style: verdana;
+    font-size: 20px;
+}
+
+
+.verde  {
+    color: rgb(67, 168, 67);
+}
+
+.rojo1  {
+
+    color: red;
+    display: inline;
+}
+
+.rojo2  {
+    color: red;
+    display: inline;
+}
+
+.enlinea    {
+    display: inline;
+    
+}
+
+.arriba {
+    border-top: 2px solid black;
+    color: black;
+    
+}
+
+
+
+
+.segunda    {
+    display: inline;
+  
+}
+
+.seguida    {
+    display: inline;
+}
+
+.azul   {
+    display: inline;
+    color: blue;
+}
+
+.grande {
+    font-size: 50px;
+    display: inline;
+}
